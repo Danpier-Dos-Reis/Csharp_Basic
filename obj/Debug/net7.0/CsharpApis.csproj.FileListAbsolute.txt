@@ -1,0 +1,15 @@
+C:\Users\Danpier\Desktop\Practices\CsharpApis\bin\Debug\net7.0\CsharpApis.exe
+C:\Users\Danpier\Desktop\Practices\CsharpApis\bin\Debug\net7.0\CsharpApis.deps.json
+C:\Users\Danpier\Desktop\Practices\CsharpApis\bin\Debug\net7.0\CsharpApis.runtimeconfig.json
+C:\Users\Danpier\Desktop\Practices\CsharpApis\bin\Debug\net7.0\CsharpApis.dll
+C:\Users\Danpier\Desktop\Practices\CsharpApis\bin\Debug\net7.0\CsharpApis.pdb
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.csproj.AssemblyReference.cache
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.AssemblyInfoInputs.cache
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.AssemblyInfo.cs
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.csproj.CoreCompileInputs.cache
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.dll
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\refint\CsharpApis.dll
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.pdb
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.genruntimeconfig.cache
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\ref\CsharpApis.dll
