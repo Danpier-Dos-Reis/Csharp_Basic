@@ -1,2 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using CsharpApis;
+
+var engine = new Engine();
+string content = await engine.GetResponse();
+
+Console.WriteLine(content);

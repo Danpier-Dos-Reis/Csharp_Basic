@@ -13,3 +13,5 @@ C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\refint\CsharpApis
 C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.pdb
 C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.genruntimeconfig.cache
 C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\ref\CsharpApis.dll
+C:\Users\Danpier\Desktop\Practices\CsharpApis\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Danpier\Desktop\Practices\CsharpApis\obj\Debug\net7.0\CsharpApis.csproj.CopyComplete
