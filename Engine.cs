@@ -10,18 +10,13 @@ namespace CsharpApis
     {
         public async Task<string> GetResponse(){
 
-            string endpoint = "https://pokeapi.co/api/v2/pokemon-species/25/";
+            string endpoint = "https://swapi.py4e.com/api/people/1";
+            string response;
 
             using (HttpClient client = new HttpClient()){
-
-                string res = await client.GetStringAsync(endpoint) ;
-
-                if(!string.IsNullOrEmpty(res)){
-                   dynamic? response = null == null ? JsonConvert.DeserializeObject(res)?.ToString():""; //Partimos el json
-                   res = JsonConvert.SerializeObject(response,Formatting.Indented); //Retornamos el Json más bonito
-                }
-                return res;
+                response = await client.GetStringAsync(endpoint);
             }
+            return response;    
         }
     }
 }
