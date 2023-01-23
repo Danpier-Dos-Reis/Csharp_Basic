@@ -1,3 +1,4 @@
+    /*
     using System;
     using System.Collections.Generic;
     using System.Globalization;
@@ -114,3 +115,4 @@ namespace QuickType
         public static readonly ParseStringConverter Singleton = new ParseStringConverter();
     }
 }
+*/

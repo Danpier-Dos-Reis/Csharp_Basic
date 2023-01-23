@@ -7,3 +7,7 @@ Content:
     * VSCode Plugin: **Paste JSON as Code** by _quicktype_ team.
     * Match C# Class with JSON using Nuget Package **Newtonsoft.Json**.
     * Print Object Properties in Console.
+* **Serialization**
+    * I made a Model called "Country" that it will be use to make a Json
+## Notes
+1- We can use **JsonConvert.SerializableObject(** _ArrayObject_ **)** and this print all objects on the JSON
