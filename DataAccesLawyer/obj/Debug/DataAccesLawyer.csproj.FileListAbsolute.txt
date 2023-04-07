@@ -1,0 +1,6 @@
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\DataAccesLawyer\bin\Debug\DataAccesLawyer.dll
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\DataAccesLawyer\bin\Debug\DataAccesLawyer.pdb
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\DataAccesLawyer\obj\Debug\DataAccesLawyer.csproj.AssemblyReference.cache
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\DataAccesLawyer\obj\Debug\DataAccesLawyer.csproj.CoreCompileInputs.cache
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\DataAccesLawyer\obj\Debug\DataAccesLawyer.dll
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\DataAccesLawyer\obj\Debug\DataAccesLawyer.pdb

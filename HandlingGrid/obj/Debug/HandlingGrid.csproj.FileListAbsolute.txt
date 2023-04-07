@@ -1,0 +1,16 @@
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\bin\Debug\HandlingGrid.exe.config
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\bin\Debug\HandlingGrid.exe
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\bin\Debug\HandlingGrid.pdb
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\bin\Debug\Guna.UI.dll
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\bin\Debug\Guna.UI2.dll
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\obj\Debug\HandlingGrid.csproj.AssemblyReference.cache
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\obj\Debug\HandlingGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\obj\Debug\HandlingGrid.frmMain.resources
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\obj\Debug\HandlingGrid.Properties.Resources.resources
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\obj\Debug\HandlingGrid.csproj.GenerateResource.cache
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\obj\Debug\HandlingGrid.csproj.CoreCompileInputs.cache
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\obj\Debug\HandlingGrid.csproj.CopyComplete
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\obj\Debug\HandlingGrid.exe
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\obj\Debug\HandlingGrid.pdb
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\bin\Debug\DataAccesLawyer.dll
+C:\Users\Danpier\Desktop\Practices\WindowsForms\HandlingGrid\HandlingGrid\bin\Debug\DataAccesLawyer.pdb
