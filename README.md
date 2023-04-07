@@ -1,5 +1,5 @@
 # CsharpApis
-Tools:
+Content:
 * **Get JSON**
     * From: [**Swapi**](https://swapi.py4e.com "swapi.py4e.com").
     * Using _HttpClient_ class and _Asynchronism_ 🔂.
@@ -7,5 +7,7 @@ Tools:
     * VSCode Plugin: **Paste JSON as Code** by _quicktype_ team.
     * Match C# Class with JSON using Nuget Package **Newtonsoft.Json**.
     * Print Object Properties in Console.
-* Note:
-    * _**Deserialize is convert a Json object to our personal C# (or any programming language) object for manage these data in one project.**_
+* **Serialization**
+    * I made a Model called "Country" that it will be use to make a Json.
+## Notes
+1- We can use **JsonConvert.SerializableObject(** _ArrayObject_ **)** and this print all objects on the JSON

@@ -1,9 +1,29 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Newtonsoft.Json;
+using CsharpApis.Model;
 
+public class Engine
+{
+    public Country[] GetCountries()
+    {    
+        var presidents = new President[] {
+            new President {Name = "Antonio Guzman Blanco"},
+            new President {Name = "Bernardo O'higgins"},
+            new President {Name = "Lula Da'Silva"},
+            new President {Name = "Mathias Laca"}
+        };
+        var country = new Country[]{
+            new Country {Name = "Venezuela", Population = 30000000, Founded = DateTime.Parse("10/01/1622"), Presidents = presidents},
+            new Country {Name = "Chile", Population = 20000000, Founded = DateTime.Parse("10/01/1722"), Presidents = presidents},
+            new Country {Name = "Brasil", Population = 130000000, Founded = DateTime.Parse("10/01/1822"), Presidents = presidents},
+            new Country {Name = "Uruguay", Population = 4300000, Founded = DateTime.Parse("10/01/1922"), Presidents = presidents}
+        };
+        return country;
+    }
+}
+
+
+/*
 namespace CsharpApis
 {
     public class Engine
@@ -20,3 +40,4 @@ namespace CsharpApis
         }
     }
 }
+*/
